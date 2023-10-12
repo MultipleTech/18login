@@ -1,13 +1,13 @@
-function LogIn(){ loggedin=false; password=""; password=prompt("Password:",""); password=password.toLowerCase(); 
-if (password=="n11111") 
-{ loggedin=true; window.location="https://loginfor18--knowledgeisthebest.repl.co/nyeinchanoo18main.html"; } 
-if (password=="ams22222") 
-{ loggedin=true; window.location="https://loginfor18--knowledgeisthebest.repl.co/aungmyintsoe.html";
+ftion LogIn(){ loggedin=false; password=""; password=prompt("Password:",""); password=password.toLowerCase(); 
+if (password=="n11") 
+{ loggedin=true; window.location="https://ebesoo18main.html"; } 
+if (password=="a222") 
+{ loggedin=true; window.location="https://logbest.repl.ce.html";
 }
  if (password=="unw33334")
-{ loggedin=true; window.location="https://loginfor18--knowledgeisthebest.repl.co/unyanwin.html";
+{ loggin=true; window.location="https://logiin.html";
   } 
    if (password=="t11111") 
-{ loggedin=true; window.location="https://loginfor18--knowledgeisthebest.repl.co/6hourtest.html";
+{ loggedin=true; window.location="https:/";
 }              
                  if (loggedin==false) { alert("Invalid login!");}} 
